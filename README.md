@@ -1,42 +1,22 @@
-🐙 GitHub Assignment: Repository and README Practice
+# GitHub Assignment: Repository and README Practice
 
-Clone the Git-Exercise repository and upload your copy to a repository under your own GitHub account. Complete the tasks below, then submit your repository URL for evaluation.
+## 👤 1. Student Information
 
-📋 Assignment Instructions
+Name: Sawrasit Sriviset\
+Email: <6730529521@student.chula.ac.th>
 
-a) Copy the GitGif.* files into the Animation directory.
+## 🖼️ 2. Picture
 
-b) Copy one of the Quote.* files into the Picture directory. Choose a format that displays directly in a web browser.
+![Quote](Picture/Quote.jpg)
 
-c) Update this README.md file:
+## 🎞️ 3. Animation
 
-     Section 1: Enter your name and email address.
+![GIF Animation](Animation/GITGIF.gif)
+![GIF Animation](Animation/GITGIFa.gif)
 
-     Section 2: Embed the quote image from the Picture directory.
+## 💬 4. Quote
 
-     Section 3: Embed the GIF animation from the Animation directory.
+>Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked.
 
-     Section 4: Type the quote as plain text.
-
-     Commit your changes and submit your repository URL.
-
-     Replace the example filenames and placeholders below with your actual information. Match the capitalization of directory and file names exactly.
-
-👤 1. Student Information
-
-Name: *** Your full name *** 
-Email: *** Your email address *** 
-
-🖼️ 2. Picture
-
-*** Place Quote.* here *** 
-
-🎞️ 3. Animation
-
-*** Place GITGIF.* here *** 
-
-💬 4. Quote
-
-*** Read and Place TEXT from Quote.* here  ***
-
-🎬 5. Video Lecture
+## 🎬 5. Video Lecture
+[![Video Lecture](https://img.youtube.com/vi/alfmHTYsEU4/hqdefault.jpg)](https://youtu.be/alfmHTYsEU4)
